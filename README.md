@@ -7,7 +7,7 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayobrata&label=Profile%20views&color=0e75b6&style=flat" alt="jayobrata" /> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="jayobrata" /> </p>
 
 - 🌱 I’m currently learning **Python**
 
