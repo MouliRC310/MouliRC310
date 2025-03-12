@@ -4,7 +4,7 @@
 ![Typing SVG](https://i.etsystatic.com/19543171/r/il/348e03/5564193685/il_fullxfull.5564193685_hoal.jpg)
 
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
+<img align="right" alt="https://i.etsystatic.com/19543171/r/il/348e03/5564193685/il_fullxfull.5564193685_hoal.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayobrata&label=Profile%20views&color=0e75b6&style=flat" alt="jayobrata" /> </p>
