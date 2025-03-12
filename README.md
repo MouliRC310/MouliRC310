@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mouli</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-![Typing SVG](https://i.etsystatic.com/19543171/r/il/348e03/5564193685/il_fullxfull.5564193685_hoal.jpg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+to+My+Github+Profile!)
 
 
-<img align="right" alt="https://i.etsystatic.com/19543171/r/il/348e03/5564193685/il_fullxfull.5564193685_hoal.jpg">
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayobrata&label=Profile%20views&color=0e75b6&style=flat" alt="jayobrata" /> </p>
 
